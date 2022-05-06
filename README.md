@@ -4,12 +4,10 @@ Shoot Them Before they Shoot you!
 
 <h2>What the game is about!</h2>
 
-You are in DANGER! Shoot the enemy before they shoot you! If your health bar goes down to 0, then its GAME OVER! Lets test your reaction speed and see if you can kill them all before they kill you!
-
 ![Wireframe](./img/wireframe.jpg)
 
 <h3>MVP<h3>
-  
+
 <ul>
 <li>Create a canvas or a big square where will be at</li>
 <li> Create the enemy's(4-5 enemys</li>
@@ -25,7 +23,16 @@ You are in DANGER! Shoot the enemy before they shoot you! If your health bar goe
   <li> add obstacles for enemy's to hide</li>
 </ul>
 
-<h5>Type of Tech</H3>
+<h4> Potential Roadblock</h4>
+  <ul>
+    <li>creating the enemy</li>
+    <li>detect the hit onto the enemy</li>
+    <li>figuring out the random spawn times</li>
+  </ul>
+
+
+
+<h4>Type of Tech</h4>
 HTML, CSS, Javascript
   
   <h5> Potential Roadblock</h3>
