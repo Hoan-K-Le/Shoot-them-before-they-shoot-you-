@@ -6,7 +6,7 @@ Shoot Them Before they Shoot you!
 
 You are in DANGER! Shoot the enemy before they shoot you! If your health bar goes down to 0, then its GAME OVER! Lets test your reaction speed and see if you can kill them all before they kill you!
 
-
+![Wireframe](./img/wireframe.jpg)
 
 <h3>MVP<h3>
   
