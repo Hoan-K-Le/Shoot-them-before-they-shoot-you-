@@ -27,4 +27,12 @@ You are in DANGER! Shoot the enemy before they shoot you! If your health bar goe
 
 <h5>Type of Tech</H3>
 HTML, CSS, Javascript
+  
+  <h5> Potential Roadblock</h3>
+  <ul>
+    <li>creating the enemy</li>
+    <li>detect the hit onto the enemy</li>
+    <li>figuring out the random spawn times</li>
+  </ul>
+  
 
