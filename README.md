@@ -23,13 +23,12 @@ Shoot Them Before they Shoot you!
   <li> add obstacles for enemy's to hide</li>
 </ul>
 
-<h4> Potential Roadblock</h4>
+<h4> Potential Roadblocks</h4>
   <ul>
     <li>creating the enemy</li>
     <li>detect the hit onto the enemy</li>
     <li>figuring out the random spawn times</li>
   </ul>
-
 
 
 <h4>Type of Tech</h4>
