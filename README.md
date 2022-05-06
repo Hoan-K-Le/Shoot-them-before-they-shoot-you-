@@ -4,7 +4,7 @@ Shoot Them Before they Shoot you!
 
 <h2>What the game is about!</h2>
 
-You are in DANGER! Shoot the blocks before they shoot you! If your health bar goes down to 0, then its GAME OVER! Lets test your reaction speed and see if you can kill them all before they kill you!
+You are in DANGER! Shoot the enemy before they shoot you! If your health bar goes down to 0, then its GAME OVER! Lets test your reaction speed and see if you can kill them all before they kill you!
 
 
 
