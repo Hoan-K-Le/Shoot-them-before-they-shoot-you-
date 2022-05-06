@@ -2,13 +2,13 @@
 
 Shoot Them Before they Shoot you!
 
-What the game is about!
+<h2>What the game is about!</h2>
 
 You are in DANGER! Shoot the blocks before they shoot you! If your health bar goes down to 0, then its GAME OVER! Lets test your reaction speed and see if you can kill them all before they kill you!
 
 
 
-<h2>MVP<h2>
+<h3>MVP<h3>
   
 <ul>
 <li>Create a canvas or a big square where will be at</li>
@@ -17,7 +17,7 @@ You are in DANGER! Shoot the blocks before they shoot you! If your health bar go
 <li>create a health bar for the player and the enemy</li>
 <ul>
 
-<h3>Stretch</h2>
+<h4>Stretch</h4>
 <ul>
 <li>Have the enemy pop out everywhere within the squares</li>
 <li>create a more graphic enemy(realistic)</li>
