@@ -6,7 +6,7 @@ You are in DANGER! Shoot the blocks before they shoot you! If your health bar go
 
 
 
-<H1>MVP<H1>
+<H2>MVP<H1>
 <ul>
 <li>Create a canvas or a big square where will be at</li>
 <li> Create the enemy's(4-5 enemys</li>
@@ -14,13 +14,13 @@ You are in DANGER! Shoot the blocks before they shoot you! If your health bar go
 <li>create a health bar for the player and the enemy</li>
 <ul>
 
-<h2>Stretch</h2>
+<h3>Stretch</h2>
 <ul>
 <li>Have the enemy pop out everywhere within the squares</li>
 <li>create a more graphic enemy(realistic)</li>
 <li>create different levels(easy, medium, hardmode)</li>
 </ul>
 
-<h3>Type of Tech</H3>
+<h5>Type of Tech</H3>
 HTML, CSS, Javascript
 
