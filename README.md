@@ -22,6 +22,7 @@ You are in DANGER! Shoot the enemy before they shoot you! If your health bar goe
 <li>Have the enemy pop out everywhere within the squares</li>
 <li>create a more graphic enemy(realistic)</li>
 <li>create different levels(easy, medium, hardmode)</li>
+  <li> add obstacles for enemy's to hide</li>
 </ul>
 
 <h5>Type of Tech</H3>
